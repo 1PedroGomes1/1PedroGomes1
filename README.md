@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro Gomes 👋
 
-Sou estudante de **Sistemas de Informação** e atuo como **Analista de Sistemas Júnior**, com foco em desenvolvimento de sistemas web, APIs e soluções corporativas.
+Sou estudante de **Sistemas de Informação** e atuo como **Analista de Sistemas Júnior** na SEFAZ-MT, com foco em desenvolvimento de sistemas web, APIs e soluções corporativas.
 
 Tenho experiência com **Java, Spring Boot, SQL, APIs REST, Git**, além de conhecimentos em **React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS e Figma**.
 
